@@ -1,7 +1,7 @@
 {
   "name": "bank_modern_app",
   "private": true,
-  "base": "https://xsaul.github.io/Bank-app",
+  "homepage": "https://xsaul.github.io/Bank-app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
